@@ -64,7 +64,7 @@
       "opacity": "99",
       "opacityOverlay": "80",
       "text": "W celu poprawy jakości naszych usług, stosujemy na tej stronie pliki cookies. Więcej szczegółów na ten temat znajdziesz na stronie <a href=’polityka.html’>Polityka Prywatności</a>.",
-      "textButton": "Zgadzam się"
+      "textButton": "Akceptuj"
     },
     "gdpr": {
       "colorText": "#a7a7a7",
@@ -2447,9 +2447,9 @@
         }
       ]
     },
-    "page3.html": {
+    "Stopka.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "Stopka",
         "title": "Stopka",
         "order": 1
       },
